@@ -13,3 +13,9 @@ Code Review
 -datele de intrare NU sunt validate
 
 2.Single Responsability si KISS 
+
+3.SOLID
+-eliminare switch prin tratatrea primului caz (NEW) in mod generic
+-eliminarea depedentelor legate de validarea datelor
+-prelucrarea depedente legate de prelucrarea discount-ului
+
