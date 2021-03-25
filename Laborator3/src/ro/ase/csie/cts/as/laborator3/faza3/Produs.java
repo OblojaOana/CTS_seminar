@@ -32,6 +32,21 @@ public class Produs {
 		
 	}
 	
+	public Produs()
+	{
+		for(Object serviciu: TestProdus.servicii)
+		{
+			if(serviciu instanceof InterfataMarketing)
+			{
+				this.serviciuMk=(InterfataMarketing) serviciu;
+			}
+		}
+		if(this.serviciuMk==null)
+		{
+			throw new NullPointerException();
+		}
+	}
+	
 	public void setStrategieMarketing(InterfataMarketing strategie)
 	{
 		if(strategie==null)
