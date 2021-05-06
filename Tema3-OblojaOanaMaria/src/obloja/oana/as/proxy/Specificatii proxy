@@ -1,0 +1,13 @@
+Titlu: Aplicatie mobila pentru planificarea calatoriilor
+
+   Descriere probleme:
+ Utilizatorul are posibiliatea sa incarce mai multe fotografii din calatorie. 
+ Aplicatia trebuie sa afiseze o lista cu toate pozele, acestea avand o rezolutie inalta. 
+ Daca utilizatorul nu a selectat o imagine din lista, aceasta nu trebuie sa apara.
+ 
+
+   Avantaje:
+ 1.Toate imaginile au fost incarcate in memorie
+   Dezavantaje:
+ 1.Ocupa multa memorie
+ 2.Pperatia de incarcatiImaginea() este o operatie costisitoare

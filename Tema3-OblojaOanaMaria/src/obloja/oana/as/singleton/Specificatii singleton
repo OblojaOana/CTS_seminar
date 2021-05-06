@@ -1,0 +1,12 @@
+Titlu: Aplicatie mobila pentru planificarea calatoriilor
+
+   Descriere probleme:
+Partea de frontend trebuie sa fie conectata la un singur API.
+Clientul trebuie sa foloseasca un unic obiect care ii permita conexiunea la API.
+   
+   Avantaje:
+ 1.Poate implementa interfete
+ 2.Poate fi folosit ca si parametrii
+   Dezavantaje:
+ 1.Nu sunt vizible depedentele din cod
+

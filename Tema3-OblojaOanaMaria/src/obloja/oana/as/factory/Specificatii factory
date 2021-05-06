@@ -1,0 +1,13 @@
+Titlu: Aplicatie mobila pentru planificarea calatoriilor
+
+   Descriere probleme:
+Utilizatorul are posibilitatea sa aleaga din mai multe tipuri de calatorie:calatorie cu familie, calatorie cu prietenii, teambuilding, 
+tabara de afaceri etc.
+In cazul in care se doreste sa fie adaugate noi calatorii nu trebuie sa se modifice codul existent.
+
+ Avantaje:
+1.Ofera o abordare a codului pentru interfata decat implementarea in sine.
+2.Se elimina instantierea claselor din codul clientului
+ Dezavantaje:
+1.Se creaza obiecte concrete de obiecte
+2.Codul este mai dificil deoarece codul se afla in spatele unei abstractii

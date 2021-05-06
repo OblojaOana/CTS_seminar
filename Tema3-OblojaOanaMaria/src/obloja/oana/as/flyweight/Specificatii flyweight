@@ -1,0 +1,12 @@
+Titlu:Aplicatie mobila pentru planificarea calatoriilor
+
+   Descriere probleme:
+Mai multi utilizatori pot sa isi introduca aceleasi destinatii pentru calatorie.
+Trebuie gasita o solutie eficienta privind gestiunea acestor situatii.
+
+ Avantaje:
+1.Numarul redus de obiecte care trebuie gestionate
+2.Performanta sporita datorita numarului mic de obiecte
+ Dezavantaje:
+1.Poate sa introduca costuri de executie
+2.Memorarea in cache a datelor pentru a imbunatati raspunsul 

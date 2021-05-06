@@ -1,0 +1,14 @@
+Titlu: Aplicatie mobila pentru planificarea calatoriilor
+
+   Descriere probleme:
+Utilizatorul are posibilitatea sa isi adauge informatii legate de calatorie: numele calatorie, data de inceput, data de sfarsit, tara si orasul.
+Pe parcursul calatoriei, el poate sa intre in aplicatie, iar la calatoria curenta sa adauge poze. Daca data de inceput a calatorie este 
+mai mare decat data curenta, atunci nu se pot adauga poze.
+
+ Avantaje:
+ 1. Ofera o buna flexibiliate pentru extinderea functionalitatiilor
+ 2. Permit modificarea comportamnetului in timpul rularii
+ 
+ Dezavantaje:
+ 1.Pot avea ca si rezultat multe obiecte mici
+ 2.Utiliarea excesiva poate fi completa

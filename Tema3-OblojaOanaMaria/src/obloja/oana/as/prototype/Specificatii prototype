@@ -1,0 +1,13 @@
+ Titlu: Aplicatie mobila pentru planificarea calatoriilor
+
+ Descriere probleme:
+Utlizatorul are posibiliatea sa incarce aceasi poza de 2 ori pentru calatoria respectiva.
+Trebuie gasita o solutie eficienta pentru a crea mai multe instante ale aceleasi poze
+
+  Avantaje:
+1.Reducerea timpului si a costului
+2.Detecteaza erorile din timp si salveaza timpul
+  Dezavantaje:
+1.Trebuie implementat chiar din prima etapa
+2.Intelegerea gresita a prototipului de catre utilizatori
+ 

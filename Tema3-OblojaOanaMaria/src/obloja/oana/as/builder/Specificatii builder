@@ -1,0 +1,17 @@
+Titlu: Aplicatie mobila pentru planificarea calatoriilor
+
+   Descriere probleme:
+In momentul cand utilizatorul isi planifica o calatorie, el are o lista cu lucrurile de care are neaparat nevoie: buletin, pasaport, bilet de avion,
+rezervare hotel, anumite medicamente, papuci de casa.
+In cazul in care nu se specifica vreun element din lista, este setat cu false.
+Trebuie gasita o solutie eficienta care sa permita crearea de calatorii cu lucrurile necesare fara a da valori 
+pentru toate atributele si fara sa permite programatorilor sa omita unele dintre ele.
+
+   Avantaje:
+1. Ofera un control mai bun in ceea ce priveste procesul de constructie.
+2. Suporta schimbarea reprezentarii interne a obiectelor
+
+   Dezavantaje:
+1.Se creeaza mai mult cod, decat avem nevoie
+2.Cod in plus pentru setter daca nu sunt folositi
+

@@ -1,0 +1,12 @@
+Titlu: Aplicatie mobila pentru planificarea calatoriilor
+
+   Descriere probleme:
+Prin aplicatie in prezent pretul unei calatorii se poate plati prin card bancar prin platforma EuPlatesc. 
+Se doreste implementarea unei solutii care sa permita platirea unei calatorii direct din aplicatie. 
+
+   Avantaje:
+1.Codul este unul flexibil 
+2.Este usor de citit. Nu utilizeaza o interfata diferita in fiecare clasa
+   Dezavantaje:
+1.Poate fi necesara mostenirea multipla
+2.Folosirea multor adaptari pentru a ajunge la tipul necesar
