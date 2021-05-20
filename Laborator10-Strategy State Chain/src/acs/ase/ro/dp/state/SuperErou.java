@@ -7,7 +7,7 @@ public class SuperErou {
 	int puncteViata;
 	String efectMagic;
 	String nume;
-	
+	InterfataModDeplasare stareDeplasare;
 	
 	public SuperErou( String nume) {
 		super();
@@ -16,7 +16,7 @@ public class SuperErou {
 		this.stareDeplasare=new StareDeplasareNormala();
 	}
 	
-	InterfataModDeplasare stareDeplasare;
+	
 	
 	public void esteAtacat(int puncteLovitura){
 		System.out.println(this.nume+ " etse lovit" + puncteViata);

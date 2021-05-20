@@ -8,4 +8,5 @@ public abstract class ModulProcesareMesaj {
 	public void setNext(ModulProcesareMesaj next) {
 		this.next = next;
 	}
+	
 }
